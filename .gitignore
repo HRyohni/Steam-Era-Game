@@ -74,8 +74,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # ignore
-*.uasset
-3D_Assets/model
-3D_Assets/texture
+Content/Megascans/*
 Levels/
-Content/PrototypeLevel/*
+PrototypeLevel/*
+Content/PrototypeLevel/Prototype.umap
