@@ -75,3 +75,7 @@ DerivedDataCache/*
 
 # ignore
 *.uasset
+3D_Assets/model
+3D_Assets/texture
+Levels/
+Content/PrototypeLevel/*
