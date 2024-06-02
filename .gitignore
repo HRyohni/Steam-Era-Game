@@ -75,6 +75,10 @@ DerivedDataCache/*
 
 # ignore
 Content/Megascans/*
+Content/
+Content/ImportedFbx/*
 Levels/
 PrototypeLevel/*
+PrototypeLevel/*
+
 Content/PrototypeLevel/Prototype.umap
