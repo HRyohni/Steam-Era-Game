@@ -75,7 +75,7 @@ DerivedDataCache/*
 
 # ignore
 Content/Megascans/*
-Content/
+
 Content/ImportedFbx/*
 Levels/
 PrototypeLevel/*
